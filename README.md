@@ -27,20 +27,21 @@ The data is relevant for the project because it has all that we require to analy
 ## Visualizations
 1. Unsafe aircrafts
 
-![alt text](image.png)
-
-
-2. Top safest aircrafts - as per the number of accidents and fatalities
-
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/f6774fb7-37c4-451c-bde0-ff2a76418542)
 
 
 
-3. Accidents by flight phase. - This shows the phase at which accidents occur. Since there were so many missing data on this and I decided to fill them with *unknown* from the pie chart we can see that most accidents occur at an unknown phase. The second phase in the landing followed by the take off phase. I recommend the management to consider more training on this once they make the acquisision.
+2. Top ten safest aircrafts - as per the number of accidents and fatalities
+
+![image](https://github.com/user-attachments/assets/349f854f-f3a8-4511-97b8-7f015514b9bd)
 
 
-![alt text](image-2.png)
-![image](https://github.com/user-attachments/assets/3a3af49f-358d-47f2-9fac-e07423d93441)
+
+
+3. Accidents by flight phase. - This shows the phase at which accidents occur. Since there were many missing data on this and I decided to fill them with *unknown* from the pie chart we can see that most accidents occur at an unknown phase. The second phase is the landing followed by the take-off phase. I recommend the management to consider more training on this once they make the acquisition.
+
+![image](https://github.com/user-attachments/assets/6d8825eb-a2b2-4690-bd1a-633832388b50)
+
 
 
 
