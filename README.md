@@ -36,13 +36,12 @@ The data is relevant for the project because it has all that we require to analy
 ![image](https://github.com/user-attachments/assets/349f854f-f3a8-4511-97b8-7f015514b9bd)
 
 
-
-
 3. Accidents by flight phase. - This shows the phase at which accidents occur. Since there were many missing data on this and I decided to fill them with *unknown* from the pie chart we can see that most accidents occur at an unknown phase. The second phase is the landing followed by the take-off phase. I recommend the management to consider more training on this once they make the acquisition.
 
 ![image](https://github.com/user-attachments/assets/6d8825eb-a2b2-4690-bd1a-633832388b50)
 
-
+ 4. INTERACTIVE DASHBOARD
+You can view the full interactive Tableau dashboard [here](https://public.tableau.com/app/profile/pacificah.asamba/viz/phase1project_17458709780720/Dashboard1?publish=yes).
 
 
 ## CONCLUSION
