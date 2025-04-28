@@ -40,6 +40,8 @@ The data is relevant for the project because it has all that we require to analy
 
 
 ![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/3a3af49f-358d-47f2-9fac-e07423d93441)
+
 
 
 ## CONCLUSION
