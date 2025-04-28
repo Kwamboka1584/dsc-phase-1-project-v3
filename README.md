@@ -24,12 +24,22 @@ I will need to do preprocessing of this data before use because it has significa
 
 The data is relevant for the project because it has all that we require to analyze and come up with a decision on which aircrafts to acquire and which ones to avoid.
 
-Visualizations
+## Visualizations
+1. Unsafe aircrafts
+
+![alt text](image.png)
+
+
+2. Top safest aircrafts - as per the number of accidents and fatalities
+
+![alt text](image-1.png)
 
 
 
+3. Accidents by flight phase. - This shows the phase at which accidents occur. Since there were so many missing data on this and I decided to fill them with *unknown* from the pie chart we can see that most accidents occur at an unknown phase. The second phase in the landing followed by the take off phase. I recommend the management to consider more training on this once they make the acquisision.
 
 
+![alt text](image-2.png)
 
 
 ## CONCLUSION
