@@ -1,8 +1,3 @@
-```python
-# Run this cell without changes
-import json
-import csv
-```
 
 # ASSESSING POTENTIAL RISKS OF AIRCRAFT FOR FLEET ACQUISITION
 
@@ -49,7 +44,6 @@ The data is relevant for the project because it has all that we require to analy
 You can view the full interactive Tableau dashboard [here](https://public.tableau.com/app/profile/pacificah.asamba/viz/phase1project_17458709780720/Dashboard1?publish=yes).
 
 
-
 ## CONCLUSION
 
 The management will consider the recemmendations given. There is room for farther analysis since due to time constraint, I did not manage to look at other key factors like Number of engines among others.
@@ -60,4 +54,4 @@ Project done by: Pacificah Asamba. Reach out on [pacificah.asamba@student.moring
 
 
 ### Acknowlegement
-Thanks to my Technical Mentors: MaryAnn Mwikali, Samwel G and George Kamundia. Special shout out to Samwel Jane for setting the pace right.
+Thanks to my Technical Mentors: MaryAnn Mwikali, Samwel G and George Kamundia. Special shout out to Samwel Jane for setting the pace right for this.
