@@ -25,7 +25,7 @@ I will need to do preprocessing of this data before use because it has significa
 The data is relevant for the project because it has all that we require to analyze and come up with a decision on which aircrafts to acquire and which ones to avoid.
 
 ## Visualizations
-1. Unsafe aircrafts
+1. Unsafe aircrafts - This is based on the number of accidents and total fatalities. I advise the Head of the Aviation Division to avoid the aircrafts from this section. 
 
 ![image](https://github.com/user-attachments/assets/f6774fb7-37c4-451c-bde0-ff2a76418542)
 
@@ -44,12 +44,15 @@ The data is relevant for the project because it has all that we require to analy
 You can view the full interactive Tableau dashboard [here](https://public.tableau.com/app/profile/pacificah.asamba/viz/phase1project_17458709780720/Dashboard1?publish=yes).
 
 
+
 ## CONCLUSION
 
+The management will consider the recemmendations given. There is room for farther analysis since due to time constraint, I did not manage to look at other key factors like Number of engines among others.
 
 
+### Contacts
+Project done by: Pacificah Asamba. Reach out on [pacificah.asamba@student.moringa.com](https://www.google.com/support/accounts/bin/answer.py?answer=181692) 
 
 
-
-
-#
+### Acknowlegement
+Thanks to my Technical Mentors: MaryAnn Mwikali, Samwel G and George Kamundia. Special shout out to Samwel Jane for setting the pace right.
