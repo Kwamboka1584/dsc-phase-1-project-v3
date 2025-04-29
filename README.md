@@ -54,4 +54,4 @@ Project done by: Pacificah Asamba. Reach out on [pacificah.asamba@student.moring
 
 
 ### Acknowlegement
-Thanks to my Technical Mentors: MaryAnn Mwikali, Samwel G and George Kamundia. Special shout out to Samwel Jane for setting the pace right for this.
+Thanks to my Technical Mentors: MaryAnn Mwikali, Samwel G and George Kamundia. Special shout out to Samwel Jane for setting the pace right for this course.
